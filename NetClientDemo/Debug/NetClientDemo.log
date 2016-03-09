@@ -1,0 +1,8 @@
+﻿Build started 2016/3/9 21:11:27.
+     1>Project "D:\项目\网络摄像头\SDK\sdk 2.1.9\sdk 2.1.9\NetClientDemo\NetClientDemo.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(369,5): error MSB8031: Building an MFC project for a non-Unicode character set is deprecated. You must change the project property to Unicode or download an additional library. See http://go.microsoft.com/fwlink/p/?LinkId=286820 for more information.
+     1>Done Building Project "D:\项目\网络摄像头\SDK\sdk 2.1.9\sdk 2.1.9\NetClientDemo\NetClientDemo.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.01
